@@ -1,0 +1,6 @@
+[submodule "todo-back"]
+	path = todo-back
+	url = git@github.com:chriswolfdesign/todo-back.git
+[submodule "todo-front"]
+	path = todo-front
+	url = git@github.com:chriswolfdesign/todo-front.git
