@@ -25,7 +25,7 @@ The application should automatically open in your default browser but if not you
 
 ## Stopping the application
 
-* Hit `Ctrl+C` in the terminal instance running the `scripts.start.sh` script to bring down the front end
+* Hit `Ctrl+C` in the terminal instance running the `scripts/start.sh` script to bring down the front end
 * Run the command `bash scripts/stop.sh` to bring down the database and server docker containers
 
 ## Final notes
