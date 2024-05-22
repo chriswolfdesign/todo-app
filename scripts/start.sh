@@ -6,7 +6,7 @@ echo "UPDATING SUBMODULES"
 echo "*******************"
 echo "" # for spacing
 
-git submodule update --remote
+git submodule update --init --remote
 result=$?
 
 if [ $result -ne 0 ]; then
