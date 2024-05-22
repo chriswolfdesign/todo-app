@@ -10,6 +10,11 @@ building and learning new back and front end technologies.
 * Node
 * NPM
 
+## Required ports
+
+This port uses ports 8080 and 3000 for the server and front end respectively.
+Please ensure both of those ports are available before running this application.
+
 ## Running the application
 
 To run the application run the following command from the root of this repository:
